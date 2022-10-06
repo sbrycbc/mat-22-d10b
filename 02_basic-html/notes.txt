@@ -1,0 +1,14 @@
+2- HTML Listen
+Fällig heute um 16:30
+Anweisungen
+- Erstelle eine Datei namens list.html
+
+- Diese Datei sollte die grundlegende HTML-Struktur enthalten
+
+- Füge eine ungeordnete Liste mit Artikeln hinzu, die du für dein Lieblingsrezept einkaufen müsstest
+
+- Füge eine geordnete Liste mit den Anweisungen für die Zubereitung des Rezepts hinzu
+
+- Füge ein Bild des Lieblingsgerichts hinzu
+
+- Verlinke das Bild, um eine Website mit einem ähnlichen Rezept zu öffnen
