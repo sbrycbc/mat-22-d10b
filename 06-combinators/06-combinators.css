@@ -1,0 +1,31 @@
+body{
+    font-family: sans-serif;
+}
+
+/* Grouping selektor: */
+h2,
+h3 {
+    color: blue;
+}
+
+/* Combinator: */
+div p {
+    color: orange;
+}
+
+/*  Child Combinator: */
+main > p {
+    color: aqua;
+}
+
+/*  Adjecent sibling Combinator: */
+h4 + p {
+    color: blueviolet;
+}
+
+/*  Inheritence: */
+body {
+    font-family: sans-serif;
+    /*color:red*/
+}
+

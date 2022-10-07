@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+
+/* Tag selektor: */
+h1 {
+    font-size: 40px;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    color: grey;
+}
+
+/* ID Selektor */
+#large-heading{
+    font-size: 35px;
+}
+
+#green-text{}
