@@ -10,6 +10,7 @@ h1{
     color: brown;
     font-family: Arial, Helvetica, sans-serif;
 }
+
 h2{
     color: navy;
 }
@@ -17,12 +18,16 @@ h2{
 #grüner-tee{
     color: rgb(92, 14, 180);
 }
+
 .schwarzer-tee{
     color: rgba(121, 86, 10, 0.9);
 }
+
 .kamelier-tee{
     color: #CD0000;
 }
+
+
 div{
     border: 3px solid black;
     border-radius: 7px;
