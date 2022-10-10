@@ -8,14 +8,16 @@ body{
     border: 3px solid blue;
     border-radius: 15px;
     margin: 10px;
-    padding: 7px;
+    padding: 20px;
+    align-content: center;
 }
 
 .istanbul-1{
     border: 9px dashed red;
     border-radius: 8px;
     margin: 12px;
-    padding: 4px 8px;
+    padding: 14px 2px;
+    align-content: center;
 
 
 }
@@ -25,7 +27,7 @@ body{
     border: 5px solid yellowgreen;
     border-radius: 12px;
     margin: 2px  4px 10px;
-    padding: 4px 8px 12px 16px;
+    padding: 25px;
 
 }
 
@@ -34,7 +36,18 @@ h2{
     text-align: center;
 
 }
+.brümtePara-1{
+    width: 50%;
+    border: 4px dashed ;
+    padding: 5px;
+    margin: 0 auto;
+}
 
-
+.brümtePara-2{
+    width: 50%;
+    border: 4px dashed ;
+    padding: 5px;
+    margin: 0 auto;
+}
 
 
