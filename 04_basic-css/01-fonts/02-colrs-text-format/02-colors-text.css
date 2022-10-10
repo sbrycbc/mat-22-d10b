@@ -13,4 +13,18 @@ body{
 #hex-color{
     color: #5700dd
 }
+.text-format{
+    border: 1px solid gray;
+    text-align: left;
+    text-align: right;
+    text-align: center;
+    text-align: justify;
+    text-decoration: overline;
+    text-decoration: underline;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+
+}
 
