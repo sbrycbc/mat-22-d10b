@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+}
+#color-name{
+    color: chartreuse;
+}
+#rgb-color-name{
+    color:rgb(36, 139, 230)
+}
+#rgba-color-name{
+    color: rgba(0, 100, 255, 0.4)
+}
+#hex-color{
+    color: #5700dd
+}
+
